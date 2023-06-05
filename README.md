@@ -14,5 +14,6 @@ The CIID(Chinese Implicit Intent Dataset) dataset is obtained from manual collec
 | iPhone13好用吗，我的12今天凄惨牺牲了。|购物|
 | 世界那么大，我想去看看。|旅行|
 | 欢乐谷周围有住的地方吗? | 订酒店 |
+***
 Our dataset contains three files: train.txt, dev.txt, test.txt, and the quantities are 4242, 300, 500, respectively. 
 #If you use the dataset, please cite this paper: A Prompt Learning Based Intent Recognition Method on a Chinese Implicit Intent Dataset CIID. 
