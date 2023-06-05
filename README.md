@@ -1,5 +1,5 @@
 # CIID-Dataset
-The [CIID](https://drive.google.com/drive/folders/1UHdGzDl0ukFFU-zE7bntYW0p8Vje8gRQ?usp=drive_link)(Chinese Implicit Intent Dataset) dataset is obtained from manual collection and twitter crawl data. The original dataset contains a total of 5042 utterances, and the utterance is the text containing the user’s implicit intent, the average length of the data is 18.24 ,some examples are shown in the table.  
+The [CIID](https://drive.google.com/drive/folders/1UHdGzDl0ukFFU-zE7bntYW0p8Vje8gRQ?usp=drive_link)(Chinese Implicit Intent Dataset) dataset is obtained from manual collection and weibo crawl data. The original dataset contains a total of 5042 utterances, and the utterance is the text containing the user’s implicit intent, the average length of the data is 18.24 ,some examples are shown in the table.  
 We focused on seven intents:  
 1.Checking Weather  
 2.Shopping   
