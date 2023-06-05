@@ -16,4 +16,4 @@ The [CIID](https://drive.google.com/drive/folders/145BcOuaRmCtE_UThwHOirQPTPHN4q
 | 欢乐谷周围有住的地方吗? | 订酒店 |
 ***
 Our dataset contains three files: train.txt, dev.txt, test.txt, and the quantities are 4242, 300, 500, respectively.  
-**If you use the dataset, please cite this paper: A Prompt Learning Based Intent Recognition Method on a Chinese Implicit Intent Dataset CIID. **
+#If you use the dataset, please cite this paper: A Prompt Learning Based Intent Recognition Method on a Chinese Implicit Intent Dataset CIID. 
